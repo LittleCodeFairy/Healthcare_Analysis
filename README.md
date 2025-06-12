@@ -7,5 +7,5 @@ I performed exploratory data analysis, hypothesis testing, and visualized key pa
 
 The final model accurately predicted costs based on features like age, BMI, smoking status, and hospital tier. SQL was used to extract key insights such as cost variations among diabetic patients and hospital tiers. 
 
-Lastly, I developed an interactive Tableau dashboard to present the findings visually. This project enhanced my data science, machine learning, SQL, and data storytelling skills, and prepared me for solving real-world healthcare analytics problems.
+Lastly, This project enhanced my data science, machine learning, SQL, and data storytelling skills, and prepared me for solving real-world healthcare analytics problems.
 
